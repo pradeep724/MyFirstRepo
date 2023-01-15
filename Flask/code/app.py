@@ -24,7 +24,6 @@ def login():
         else:
             return 'UnAuthorized'
 
-
 ## This is passing var to context
 # @app.route('/<name>')
 # def var_page(name):
